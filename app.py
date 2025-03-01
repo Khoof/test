@@ -12,7 +12,7 @@ def home():
         <body style="font-family: Arial, sans-serif; background-color: #f0f0f0;">
             <h1 style="text-align: center; color: #333;">Welcome to Our Innovative Web App!</h1>
             <p style="text-align: center; font-size: 1.2em;">
-                Crafted with passion by <span style="color: red;">Mubeen</span> and Fahad Aslam – where creativity meets technology.
+                Crafted with passion by <span style="color: black;">Mubeen</span> and Fahad Aslam – where creativity meets technology.
             </p>
         </body>
     </html>
